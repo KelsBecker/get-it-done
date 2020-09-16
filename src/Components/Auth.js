@@ -5,7 +5,7 @@ import SignUp from './SignUp'
 function Auth(){
   return(
     <>
-    <header>Auth</header>
+    <header>Authorization</header>
       <Login/>
       <SignUp/>
     </>
