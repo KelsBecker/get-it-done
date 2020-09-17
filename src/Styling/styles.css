@@ -1,0 +1,9 @@
+/* Entire App*/
+
+body {
+  display: flex;
+  background-image: url('../Images/tackboard.jpg');
+  background-size: cover;
+  height: 100%;
+}
+
